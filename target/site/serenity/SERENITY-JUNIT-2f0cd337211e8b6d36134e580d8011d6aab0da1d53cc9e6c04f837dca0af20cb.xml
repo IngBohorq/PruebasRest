@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Ingreso de empleados" skipped="0" tests="1" time="0.39" timestamp="2022-07-17 04:55:12"><testcase name="Registro de usuarios"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+stepdefinitions.IngresarEmpleadoStepdefinitions.elEnviaLaInformacionRequeridaPorElServicio(IngresarEmpleadoStepdefinitions.java:21)&#13;
+✽.el envia la informacion requerida por el servicio(file:///C:/Users/ingrid.bohorquez/OneDrive%20-%20SoftwareONE/Documents/01Apis/apigetmaven/src/test/resources/features/ingresar_empleado.feature:8)&#13;
+</system-err></testcase></testsuite>

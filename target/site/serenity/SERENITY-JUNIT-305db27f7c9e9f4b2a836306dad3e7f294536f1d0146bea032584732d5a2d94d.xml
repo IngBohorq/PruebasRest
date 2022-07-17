@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="ConsultaApi" skipped="0" tests="1" time="4.37" timestamp="2022-07-17 11:06:58"><testcase classname="ConsultaApi" name="Get users"><error message="&#10;Expected: &lt;200&gt;&#10;     but: was &lt;429&gt;" type="java.lang.AssertionError">
+Expected: &lt;200&gt;
+     but: was &lt;429&gt;</error><system-err>
+Expected: &lt;200&gt;
+     but: was &lt;429&gt;&#13;
+ConsultaApi.getUsers(ConsultaApi.java:31)&#13;
+</system-err></testcase></testsuite>

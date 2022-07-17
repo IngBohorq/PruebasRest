@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Eliminar un usuario" skipped="0" tests="1" time="0.45" timestamp="2022-07-17 04:55:01"><testcase name="Eliminacion de un usuario"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+stepdefinitions.EliminarRegistroStepdefinitions.seEnviaElRegistroAEliminarServicio(EliminarRegistroStepdefinitions.java:18)&#13;
+✽.se envia el registro a eliminar servicio(file:///C:/Users/ingrid.bohorquez/OneDrive%20-%20SoftwareONE/Documents/01Apis/apigetmaven/src/test/resources/features/eliminar_empleado.feature:8)&#13;
+</system-err></testcase></testsuite>

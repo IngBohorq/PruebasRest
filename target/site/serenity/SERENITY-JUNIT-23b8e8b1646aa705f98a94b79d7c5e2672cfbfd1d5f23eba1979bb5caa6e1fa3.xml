@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="Consulta de usuarios" skipped="0" tests="2" time="7.86" timestamp="2022-07-17 03:49:13"><testcase name="Consulta de usuario de usuario exitoso"><error message="Cannot parse object because no supported Content-Type was specified in response. Content-Type was 'text/html; charset=UTF-8'." type="java.lang.IllegalStateException">Cannot parse object because no supported Content-Type was specified in response. Content-Type was 'text/html; charset=UTF-8'.</error><system-err>Cannot parse object because no supported Content-Type was specified in response. Content-Type was 'text/html; charset=UTF-8'.&#13;
+io.restassured.internal.mapping.ObjectMapping.deserialize(ObjectMapping.groovy:84)&#13;
+io.restassured.internal.RestAssuredResponseOptionsGroovyImpl.as(RestAssuredResponseOptionsGroovyImpl.groovy:220)&#13;
+io.restassured.internal.RestAssuredResponseOptionsImpl.as(RestAssuredResponseOptionsImpl.java:166)&#13;
+net.serenitybdd.rest.decorators.ResponseDecorated.as(ResponseDecorated.java:63)&#13;
+apiget.questions.GetEmployeesQuestion.answeredBy(GetEmployeesQuestion.java:11)&#13;
+stepdefinitions.ConsultaEmpleadoStepdefinitions.elVerificaElRegistroEnElServicio(ConsultaEmpleadoStepdefinitions.java:34)&#13;
+✽.el verifica el registro en el servicio(file:///C:/Users/ingrid.bohorquez/OneDrive%20-%20SoftwareONE/Documents/01Apis/apigetmaven/src/test/resources/features/consultar_empleado.feature:11)&#13;
+</system-err></testcase></testsuite>
